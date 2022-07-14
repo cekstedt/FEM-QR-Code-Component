@@ -12,12 +12,13 @@
 
 body {
   background-color: var(--light-gray);
+  margin: 0;
 }
 
 .container {
   display: flex;
   flex-direction: column;
-  min-height: 95vh;
+  min-height: 100vh;
   justify-content: center;
   align-items: center;
 }
@@ -29,11 +30,34 @@ body {
   font-size: 15px;
   color: var(--dark-blue);
   background-color: var(--white);
+  text-align: center;
+  border-radius: 1rem;
+  max-width: 18rem;
+  padding: 1rem;
+}
+
+/* Image */
+
+.card img {
+  max-width: 100%;
   border-radius: 0.5rem;
-  max-width: 635px;
+}
+
+/* Content */
+
+.card p {
+  color: var(--grayish-blue);
+  margin: 0.5rem 1rem 1.5rem;
 }
 
 /* Footer */
+
+footer {
+  position: absolute;
+  bottom: 30px;
+  left: 50%;
+  transform: translateX(-50%);
+}
 
 .attribution {
   font-size: 11px;
