@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Github](https://github.com/cekstedt/qr-code-component)
+- Solution URL: [Github](https://github.com/cekstedt/FEM-QR-Code-Component)
 - Live Site URL: [Netlify](https://shimmering-piroshki-6e2004.netlify.app/)
 
 ## My process
