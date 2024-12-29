@@ -5,13 +5,21 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
+  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+  - [How to install and run](#how-to-install-and-run)
 - [Author](#author)
 
 ## Overview
+
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout depending on their device's screen size
 
 ### Screenshot
 
@@ -21,6 +29,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Solution URL: [Github](https://github.com/cekstedt/FEM-QR-Code-Component)
 - Live Site URL: [Netlify](https://shimmering-piroshki-6e2004.netlify.app/)
+- Challenge URL: [Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
 
 ## My process
 
@@ -28,6 +37,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Semantic HTML5 markup
 - CSS custom properties
+
+### How to install and run
+
+This project is HTML & CSS only, so simply clone the repo then open `src/index.html` in your browser.
+
+```
+git clone https://github.com/cekstedt/FreeCodeCamp-Rothko-Painting.git
+```
 
 ## Author
 
